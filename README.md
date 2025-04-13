@@ -94,10 +94,13 @@ Send test images from test-images/
 Output the predicted tag and confidence score
 
 ## 📊 Sample Output
+```bash 
 apple.jpg: Predicted - apple (95.34%)
 banana.jpg: Predicted - banana (92.21%)
 orange.jpg: Predicted - orange (93.18%)
-## 📘 References
-Azure AI Custom Vision
+```
 
-Azure SDK for Python - Custom Vision
+## 📘 References
+[Azure AI Custom Vision](https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision)
+
+[Azure SDK for Python - Custom Vision](https://learn.microsoft.com/en-us/python/api/overview/azure/custom-vision?view=azure-python)
